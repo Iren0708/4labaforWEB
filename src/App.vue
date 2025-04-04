@@ -1,6 +1,7 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue';
 import AboutView from './views/HomeView.vue';
+import shapka from './components/UI/shapka.vue';
 </script>
 
 <template>
